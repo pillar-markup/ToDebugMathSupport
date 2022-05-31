@@ -615,7 +615,7 @@ APrioriLiftMetric >> valueForAssociationRule: anAssociationRule
 
 !!!! Implementation of Itemset and Association Rule
 
-Every part of the A-Priori algorithm operates on itemsets or association rules. In our implementation, they store items and the values of different metrics. You can see how they are UML diagram for ==APrioriItemset== and ==APrioriAssociationRule== in Figure *figAPrioriItemsetRuleUML*.
+Every part of the A-Priori algorithm operates on itemsets or association rules. In our implementation, they store items and the values of different metrics. You can see how they are UML diagram for ==APrioriItemset== and ==APrioriAssociationRule== in Figure *@figAPrioriItemsetRuleUML*.
 
 +Itemset and association rule>figures/APrioriItemsetRuleUML|width=70|label=figAPrioriItemsetRuleUML+
 
